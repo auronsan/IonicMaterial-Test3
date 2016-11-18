@@ -1,0 +1,9 @@
+﻿<ion-view view-title="Hasil Pencarian">
+    <ion-content ng-class="{expanded:isExpanded}" class="animate-fade-slide-in">
+        <ion-searchbar [(ngModel)]="myInput"
+                       [showCancelButton]="shouldShowCancel"
+                       (ionInput)="onInput($event)"
+                       (ionCancel)="onCancel($event)">
+        </ion-searchbar>
+    </ion-content>
+</ion-view>

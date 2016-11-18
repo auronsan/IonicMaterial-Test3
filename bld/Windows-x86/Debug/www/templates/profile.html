@@ -1,0 +1,35 @@
+﻿<ion-view view-title="Kuboseinz-Shop">
+    <ion-content ng-class="{expanded:$scope.isExpanded}">
+               <ion-slide-box on-slide-changed="slideHasChanged($index)">
+                    <ion-slide>
+                        <div class="hero slide-up" style="background-image: url('img/shop-welcome-banner.jpg');">
+                        </div>
+                    </ion-slide>
+                    <ion-slide>
+                        <div class="hero slide-up" style="background-image: url('img/daenerys.jpg');">
+                        </div>
+                    </ion-slide>
+                    <ion-slide>
+                        <div class="hero slide-up" style="background-image: url('img/login.jpg');">
+                        </div>
+                    </ion-slide>
+                </ion-slide-box>       
+        <div class="row">   
+            <div class="col">
+                <button ui-sref="app.activity" class="button  button-block icon-left ion-search button-calm">Cari Produk</button>
+            </div>   
+            </div>
+        <div class="row">
+            <div class="col">
+                <button ui-sref="app.gallery" class="button  button-block icon-left ion-star button-energized">Produk Baru</button>
+            </div>
+        </div>    
+            <div class="row">
+                <div class="col">
+            <button class="button  button-block icon-left ion-star button-royal">Favourite</button>
+</div>
+</div>
+       
+</ion-content>
+
+</ion-view>

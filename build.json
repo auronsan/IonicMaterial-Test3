@@ -1,0 +1,11 @@
+{
+ "android": {
+     "release": {
+         "keystore":"c:\\kz.keystore",
+         "storePassword":"gundam",
+         "alias":"kubo",
+         "password":"gundam",
+         "keystoreType":""
+       }
+   }
+}

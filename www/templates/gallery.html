@@ -1,0 +1,38 @@
+<ion-view view-title="New Product">
+    <ion-content ng-class="{expanded:isExpanded}" class="animate-fade-slide-in">
+        <ion-scroll direction="xy">
+            <div class="list animate-fade-slide-in-right">
+                Iphone
+                <div class="row">
+                    <div class="col col-40" ng-repeat="product in products | filter:isActive">
+                        <div class="list card red">
+                            <div class="">
+                                <img src={{mySplitL(product.image)}}>
+                                <h2>{{product.model}}</h2>
+
+                                <h3>{{product.price}}</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="list animate-fade-slide-in-right">
+                Iphone
+                <div class="row">
+                    <div class="col col-40" ng-repeat="product in products | filter:isActive1">
+                        <div class="list card red">
+                            <div class="">
+                                <img src={{mySplitL(product.image)}}>
+                                <h2>{{product.model}}</h2>
+
+                                <h3>{{product.price}}</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            </ion-scroll>
+</ion-content>
+</ion-view>

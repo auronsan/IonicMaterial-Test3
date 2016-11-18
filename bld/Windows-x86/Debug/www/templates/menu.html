@@ -1,0 +1,26 @@
+﻿<ion-side-menus enable-menu-with-back-views="true">
+    <ion-side-menu-content>
+        <ion-nav-bar class="bar-assertive-900" ng-class="{expanded: isExpanded, 'has-header-fab-left': hasHeaderFabLeft, 'has-header-fab-right': hasHeaderFabRight}" align-title="left">
+            <ion-nav-back-button class="no-text">
+            </ion-nav-back-button>
+            <ion-nav-buttons side="right">
+                <button class="button button-icon button-clear ion-android-more-vertical" menu-toggle="right">
+                </button>
+            </ion-nav-buttons>
+        </ion-nav-bar>
+        <ion-nav-view name="menuContent" ng-class="{expanded: isExpanded}" ></ion-nav-view>      
+    </ion-side-menu-content>
+</ion-side-menus>
+<ion-footer-bar ng-class="{expanded: isExpanded}" align-title="left" class="bar-assertive">
+    <div class="tabs tabs-dark tabs-icon-top static">
+        <a ui-sref="app.profile" class="tab-item">
+            <i class="icon ion-home"></i> Home 
+        </a>
+        <a ui-sref="app.activity" class="tab-item">
+            <i class="icon ion-android-cart"></i> cart
+        </a>
+        <a ui-sref="app.friends" class="tab-item">
+            <i class="icon ion-android-people"></i> Akun
+        </a>
+    </div>
+</ion-footer-bar>

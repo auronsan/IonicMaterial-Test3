@@ -1,0 +1,1139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MTPC571</Machine>
+    <WindowsUser>trainee3</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>com.ionicframework.ionictesting968685</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\build\windows\debug\x86\win8.1\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\ben.png">
+      <PackagePath>www\img\ben.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\google-material.png">
+      <PackagePath>www\img\google-material.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\ionic.png">
+      <PackagePath>www\img\ionic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\max.png">
+      <PackagePath>www\img\max.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\mike.png">
+      <PackagePath>www\img\mike.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\perry.png">
+      <PackagePath>www\img\perry.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\sansa-snowcastle.png">
+      <PackagePath>www\img\sansa-snowcastle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\img\ionic.png">
+      <PackagePath>www\lib\ion-md-input\demo\www\img\ionic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\js\app.js">
+      <PackagePath>www\js\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\js\controllers.js">
+      <PackagePath>www\js\controllers.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\js\directives.js">
+      <PackagePath>www\js\directives.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\js\platformOverrides.js">
+      <PackagePath>www\js\platformOverrides.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\js\routes.js">
+      <PackagePath>www\js\routes.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\js\services.js">
+      <PackagePath>www\js\services.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\js\winstore-jscompat.js">
+      <PackagePath>www\js\winstore-jscompat.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-animate\angular-animate.js">
+      <PackagePath>www\lib\angular-animate\angular-animate.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-animate\angular-animate.min.js">
+      <PackagePath>www\lib\angular-animate\angular-animate.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-animate\index.js">
+      <PackagePath>www\lib\angular-animate\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\angular-mocks.js">
+      <PackagePath>www\lib\angular-mocks\angular-mocks.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\ngAnimateMock.js">
+      <PackagePath>www\lib\angular-mocks\ngAnimateMock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\ngMock.js">
+      <PackagePath>www\lib\angular-mocks\ngMock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\ngMockE2E.js">
+      <PackagePath>www\lib\angular-mocks\ngMockE2E.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-sanitize\angular-sanitize.js">
+      <PackagePath>www\lib\angular-sanitize\angular-sanitize.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-sanitize\angular-sanitize.min.js">
+      <PackagePath>www\lib\angular-sanitize\angular-sanitize.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-sanitize\index.js">
+      <PackagePath>www\lib\angular-sanitize\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\release\angular-ui-router.js">
+      <PackagePath>www\lib\angular-ui-router\release\angular-ui-router.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\release\angular-ui-router.min.js">
+      <PackagePath>www\lib\angular-ui-router\release\angular-ui-router.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\common.js">
+      <PackagePath>www\lib\angular-ui-router\src\common.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\resolve.js">
+      <PackagePath>www\lib\angular-ui-router\src\resolve.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\state.js">
+      <PackagePath>www\lib\angular-ui-router\src\state.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\stateDirectives.js">
+      <PackagePath>www\lib\angular-ui-router\src\stateDirectives.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\stateFilters.js">
+      <PackagePath>www\lib\angular-ui-router\src\stateFilters.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\templateFactory.js">
+      <PackagePath>www\lib\angular-ui-router\src\templateFactory.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\urlMatcherFactory.js">
+      <PackagePath>www\lib\angular-ui-router\src\urlMatcherFactory.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\urlRouter.js">
+      <PackagePath>www\lib\angular-ui-router\src\urlRouter.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\view.js">
+      <PackagePath>www\lib\angular-ui-router\src\view.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\viewDirective.js">
+      <PackagePath>www\lib\angular-ui-router\src\viewDirective.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\src\viewScroll.js">
+      <PackagePath>www\lib\angular-ui-router\src\viewScroll.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\angular.js">
+      <PackagePath>www\lib\angular\angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\angular.min.js">
+      <PackagePath>www\lib\angular\angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\index.js">
+      <PackagePath>www\lib\angular\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\gulpfile.js">
+      <PackagePath>www\lib\ion-md-input\demo\gulpfile.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\hooks\after_prepare\010_add_platform_class.js">
+      <PackagePath>www\lib\ion-md-input\demo\hooks\after_prepare\010_add_platform_class.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\js\app.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\js\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\js\ion-md-input.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\js\ion-md-input.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\js\ion-md-input.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\js\ion-md-input.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular-ui\angular-ui-router.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular-ui\angular-ui-router.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular-ui\angular-ui-router.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular-ui\angular-ui-router.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-animate.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-animate.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-animate.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-animate.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-resource.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-resource.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-resource.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-resource.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-sanitize.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-sanitize.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-sanitize.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular-sanitize.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\angular\angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\ionic-angular.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\ionic-angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\ionic-angular.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\ionic-angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\ionic.bundle.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\ionic.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\ionic.bundle.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\ionic.bundle.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\ionic.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\ionic.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\js\ionic.min.js">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\js\ionic.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\gulpfile.js">
+      <PackagePath>www\lib\ion-md-input\gulpfile.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\ion-md-input.js">
+      <PackagePath>www\lib\ion-md-input\ion-md-input.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\js\ion-md-input.js">
+      <PackagePath>www\lib\ion-md-input\js\ion-md-input.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\js\ion-md-input.min.js">
+      <PackagePath>www\lib\ion-md-input\js\ion-md-input.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\dist\ionic.material.js">
+      <PackagePath>www\lib\ionic-material\dist\ionic.material.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\dist\ionic.material.min.js">
+      <PackagePath>www\lib\ionic-material\dist\ionic.material.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\js\ionic-material.js">
+      <PackagePath>www\lib\ionic-material\src\js\ionic-material.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\js\lib\_ink.js">
+      <PackagePath>www\lib\ionic-material\src\js\lib\_ink.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\js\lib\_motion.js">
+      <PackagePath>www\lib\ionic-material\src\js\lib\_motion.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\webpack.config.js">
+      <PackagePath>www\lib\ionic-material\webpack.config.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionicuirouter\ionicUIRouter.js">
+      <PackagePath>www\lib\ionicuirouter\ionicUIRouter.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular-ui\angular-ui-router.js">
+      <PackagePath>www\lib\ionic\js\angular-ui\angular-ui-router.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular-ui\angular-ui-router.min.js">
+      <PackagePath>www\lib\ionic\js\angular-ui\angular-ui-router.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular\angular-animate.js">
+      <PackagePath>www\lib\ionic\js\angular\angular-animate.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular\angular-animate.min.js">
+      <PackagePath>www\lib\ionic\js\angular\angular-animate.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular\angular-resource.js">
+      <PackagePath>www\lib\ionic\js\angular\angular-resource.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular\angular-resource.min.js">
+      <PackagePath>www\lib\ionic\js\angular\angular-resource.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular\angular-sanitize.js">
+      <PackagePath>www\lib\ionic\js\angular\angular-sanitize.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular\angular-sanitize.min.js">
+      <PackagePath>www\lib\ionic\js\angular\angular-sanitize.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular\angular.js">
+      <PackagePath>www\lib\ionic\js\angular\angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\angular\angular.min.js">
+      <PackagePath>www\lib\ionic\js\angular\angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\ionic-angular.js">
+      <PackagePath>www\lib\ionic\js\ionic-angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\ionic-angular.min.js">
+      <PackagePath>www\lib\ionic\js\ionic-angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\ionic.bundle.js">
+      <PackagePath>www\lib\ionic\js\ionic.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\ionic.bundle.min.js">
+      <PackagePath>www\lib\ionic\js\ionic.bundle.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\ionic.js">
+      <PackagePath>www\lib\ionic\js\ionic.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\js\ionic.min.js">
+      <PackagePath>www\lib\ionic\js\ionic.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\dist\waves.js">
+      <PackagePath>www\lib\waves\dist\waves.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\dist\waves.min.js">
+      <PackagePath>www\lib\waves\dist\waves.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\docs\static\jquery.js">
+      <PackagePath>www\lib\waves\docs\static\jquery.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\docs\static\prims.js">
+      <PackagePath>www\lib\waves\docs\static\prims.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\docs\static\snarl.min.js">
+      <PackagePath>www\lib\waves\docs\static\snarl.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\Gruntfile.js">
+      <PackagePath>www\lib\waves\Gruntfile.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\src\js\waves.js">
+      <PackagePath>www\lib\waves\src\js\waves.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\plugins\cordova-plugin-console\www\console-via-logger.js">
+      <PackagePath>www\plugins\cordova-plugin-console\www\console-via-logger.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\plugins\cordova-plugin-console\www\logger.js">
+      <PackagePath>www\plugins\cordova-plugin-console\www\logger.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\plugins\cordova-plugin-device\www\device.js">
+      <PackagePath>www\plugins\cordova-plugin-device\www\device.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\plugins\cordova-plugin-statusbar\www\statusbar.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\www\statusbar.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js">
+      <PackagePath>www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\service-worker.js">
+      <PackagePath>www\service-worker.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\css\ionic.app.css">
+      <PackagePath>www\css\ionic.app.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\css\ionic.app.min.css">
+      <PackagePath>www\css\ionic.app.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\css\style.css">
+      <PackagePath>www\css\style.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\angular-csp.css">
+      <PackagePath>www\lib\angular\angular-csp.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\css\ion-md-input.css">
+      <PackagePath>www\lib\ion-md-input\css\ion-md-input.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\css\ion-md-input.min.css">
+      <PackagePath>www\lib\ion-md-input\css\ion-md-input.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\css\ion-md-input.css">
+      <PackagePath>www\lib\ion-md-input\demo\www\css\ion-md-input.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\css\ion-md-input.min.css">
+      <PackagePath>www\lib\ion-md-input\demo\www\css\ion-md-input.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\css\ionic.css">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\css\ionic.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\css\ionic.min.css">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\css\ionic.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\dist\ionic.material.css">
+      <PackagePath>www\lib\ionic-material\dist\ionic.material.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\dist\ionic.material.min.css">
+      <PackagePath>www\lib\ionic-material\dist\ionic.material.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\css\ionic.css">
+      <PackagePath>www\lib\ionic\css\ionic.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\css\ionic.min.css">
+      <PackagePath>www\lib\ionic\css\ionic.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\dist\waves.css">
+      <PackagePath>www\lib\waves\dist\waves.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\dist\waves.min.css">
+      <PackagePath>www\lib\waves\dist\waves.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\docs\static\prims.css">
+      <PackagePath>www\lib\waves\docs\static\prims.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\docs\static\snarl.min.css">
+      <PackagePath>www\lib\waves\docs\static\snarl.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\docs\static\style.css">
+      <PackagePath>www\lib\waves\docs\static\style.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\adam.jpg">
+      <PackagePath>www\img\adam.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\arya.jpg">
+      <PackagePath>www\img\arya.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\crown.jpg">
+      <PackagePath>www\img\crown.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\crown2.jpg">
+      <PackagePath>www\img\crown2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\daenerys.jpg">
+      <PackagePath>www\img\daenerys.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\impin-bg.jpg">
+      <PackagePath>www\img\impin-bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\jon-snow.jpg">
+      <PackagePath>www\img\jon-snow.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\login.jpg">
+      <PackagePath>www\img\login.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\login2.jpg">
+      <PackagePath>www\img\login2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\material-graphite.jpg">
+      <PackagePath>www\img\material-graphite.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\material1.jpg">
+      <PackagePath>www\img\material1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\material2.jpg">
+      <PackagePath>www\img\material2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\material3.jpg">
+      <PackagePath>www\img\material3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\material4.jpg">
+      <PackagePath>www\img\material4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\profile-bg.jpg">
+      <PackagePath>www\img\profile-bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\sansa-snowcastle2.jpg">
+      <PackagePath>www\img\sansa-snowcastle2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\sansa-snowcastle3.jpg">
+      <PackagePath>www\img\sansa-snowcastle3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\sansa-snowcastle4.jpg">
+      <PackagePath>www\img\sansa-snowcastle4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\sansa.jpg">
+      <PackagePath>www\img\sansa.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\shop-welcome-banner.jpg">
+      <PackagePath>www\img\shop-welcome-banner.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\img\tyrion.jpg">
+      <PackagePath>www\img\tyrion.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\index.html">
+      <PackagePath>www\lib\ion-md-input\demo\www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\docs\index.html">
+      <PackagePath>www\lib\waves\docs\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\activity.html">
+      <PackagePath>www\templates\activity.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\chat-detail.html">
+      <PackagePath>www\templates\chat-detail.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\friends.html">
+      <PackagePath>www\templates\friends.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\gallery.html">
+      <PackagePath>www\templates\gallery.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\home.html">
+      <PackagePath>www\templates\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\liveChat.html">
+      <PackagePath>www\templates\liveChat.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\login.html">
+      <PackagePath>www\templates\login.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\menu.html">
+      <PackagePath>www\templates\menu.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\profile.html">
+      <PackagePath>www\templates\profile.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\search.html">
+      <PackagePath>www\templates\search.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\tab-account.html">
+      <PackagePath>www\templates\tab-account.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\tab-chats.html">
+      <PackagePath>www\templates\tab-chats.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\tab-dash.html">
+      <PackagePath>www\templates\tab-dash.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\tabs.html">
+      <PackagePath>www\templates\tabs.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\templates\tabsController.html">
+      <PackagePath>www\templates\tabsController.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-animate\.bower.json">
+      <PackagePath>www\lib\angular-animate\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-animate\bower.json">
+      <PackagePath>www\lib\angular-animate\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-animate\package.json">
+      <PackagePath>www\lib\angular-animate\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\.bower.json">
+      <PackagePath>www\lib\angular-mocks\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\bower.json">
+      <PackagePath>www\lib\angular-mocks\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\package.json">
+      <PackagePath>www\lib\angular-mocks\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-sanitize\.bower.json">
+      <PackagePath>www\lib\angular-sanitize\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-sanitize\bower.json">
+      <PackagePath>www\lib\angular-sanitize\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-sanitize\package.json">
+      <PackagePath>www\lib\angular-sanitize\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\.bower.json">
+      <PackagePath>www\lib\angular-ui-router\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\bower.json">
+      <PackagePath>www\lib\angular-ui-router\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\.bower.json">
+      <PackagePath>www\lib\angular\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\bower.json">
+      <PackagePath>www\lib\angular\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\package.json">
+      <PackagePath>www\lib\angular\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\.bower.json">
+      <PackagePath>www\lib\ion-md-input\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\bower.json">
+      <PackagePath>www\lib\ion-md-input\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\bower.json">
+      <PackagePath>www\lib\ion-md-input\demo\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\package.json">
+      <PackagePath>www\lib\ion-md-input\demo\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\version.json">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\version.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\package.json">
+      <PackagePath>www\lib\ion-md-input\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\.bower.json">
+      <PackagePath>www\lib\ionic-material\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\.cz.json">
+      <PackagePath>www\lib\ionic-material\.cz.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\bower.json">
+      <PackagePath>www\lib\ionic-material\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\package.json">
+      <PackagePath>www\lib\ionic-material\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\.bower.json">
+      <PackagePath>www\lib\ionic\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\bower.json">
+      <PackagePath>www\lib\ionic\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\tsconfig.json">
+      <PackagePath>www\lib\ionic\scss\tsconfig.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\version.json">
+      <PackagePath>www\lib\ionic\version.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\.bower.json">
+      <PackagePath>www\lib\waves\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\bower.json">
+      <PackagePath>www\lib\waves\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\package.json">
+      <PackagePath>www\lib\waves\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\situs.json">
+      <PackagePath>www\lib\waves\situs.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\manifest.json">
+      <PackagePath>www\manifest.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-animate\angular-animate.min.js.map">
+      <PackagePath>www\lib\angular-animate\angular-animate.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-sanitize\angular-sanitize.min.js.map">
+      <PackagePath>www\lib\angular-sanitize\angular-sanitize.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\angular.min.js.map">
+      <PackagePath>www\lib\angular\angular.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\dist\ionic.material.min.js.map">
+      <PackagePath>www\lib\ionic-material\dist\ionic.material.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\dist\waves.min.js.map">
+      <PackagePath>www\lib\waves\dist\waves.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-animate\README.md">
+      <PackagePath>www\lib\angular-animate\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\LICENSE.md">
+      <PackagePath>www\lib\angular-mocks\LICENSE.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-mocks\README.md">
+      <PackagePath>www\lib\angular-mocks\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-sanitize\README.md">
+      <PackagePath>www\lib\angular-sanitize\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\CHANGELOG.md">
+      <PackagePath>www\lib\angular-ui-router\CHANGELOG.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\CONTRIBUTING.md">
+      <PackagePath>www\lib\angular-ui-router\CONTRIBUTING.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\README.md">
+      <PackagePath>www\lib\angular-ui-router\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\LICENSE.md">
+      <PackagePath>www\lib\angular\LICENSE.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\README.md">
+      <PackagePath>www\lib\angular\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\hooks\README.md">
+      <PackagePath>www\lib\ion-md-input\demo\hooks\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\README.md">
+      <PackagePath>www\lib\ion-md-input\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\CONTRIBUTING.md">
+      <PackagePath>www\lib\ionic-material\CONTRIBUTING.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\README.md">
+      <PackagePath>www\lib\ionic-material\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\README.md">
+      <PackagePath>www\lib\ionic\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\README.md">
+      <PackagePath>www\lib\waves\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\api\angular-ui-router.d.ts">
+      <PackagePath>www\lib\angular-ui-router\api\angular-ui-router.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular-ui-router\LICENSE">
+      <PackagePath>www\lib\angular-ui-router\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\LICENSE">
+      <PackagePath>www\lib\ion-md-input\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\LICENSE">
+      <PackagePath>www\lib\ionic-material\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\LICENSE">
+      <PackagePath>www\lib\waves\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\angular\angular.min.js.gzip">
+      <PackagePath>www\lib\angular\angular.min.js.gzip</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\config.xml">
+      <PackagePath>www\lib\ion-md-input\demo\config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\ionic.project">
+      <PackagePath>www\lib\ion-md-input\demo\ionic.project</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\scss\ionic.app.scss">
+      <PackagePath>www\lib\ion-md-input\demo\scss\ionic.app.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\ionic.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\ionic.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\ionicons.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\ionicons.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\_ionicons-animation.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\_ionicons-animation.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\_ionicons-font.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\_ionicons-font.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\_ionicons-icons.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\_ionicons-icons.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\_ionicons-variables.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\ionicons\_ionicons-variables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_action-sheet.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_action-sheet.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_animations.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_animations.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_backdrop.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_backdrop.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_badge.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_badge.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_bar.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_bar.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_button-bar.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_button-bar.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_button.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_button.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_checkbox.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_checkbox.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_form.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_form.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_grid.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_grid.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_items.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_items.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_list.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_list.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_loading.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_loading.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_menu.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_menu.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_mixins.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_mixins.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_modal.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_modal.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_platform.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_platform.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_popover.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_popover.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_popup.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_popup.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_progress.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_progress.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_radio.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_radio.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_range.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_range.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_reset.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_reset.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_scaffolding.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_scaffolding.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_select.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_select.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_slide-box.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_slide-box.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_tabs.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_tabs.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_toggle.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_toggle.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_transitions.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_transitions.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_type.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_type.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_util.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_util.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\scss\_variables.scss">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\scss\_variables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\ion-md-input.scss">
+      <PackagePath>www\lib\ion-md-input\ion-md-input.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\directives\md-label.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\directives\md-label.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\bar-header-expanded.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\bar-header-expanded.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\bar.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\bar.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\button-bar.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\button-bar.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\button-fab.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\button-fab.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\button-floating.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\button-floating.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\button.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\button.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\card.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\card.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\hero.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\hero.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\item.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\item.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\list.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\list.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\loading.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\loading.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\login.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\login.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\mask.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\mask.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\menu.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\menu.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\elements\motion-elements.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\elements\motion-elements.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\helpers\colors.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\helpers\colors.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\helpers\sizes.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\helpers\sizes.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\helpers\utilities.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\helpers\utilities.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\index.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\index.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\motion\blinds.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\motion\blinds.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\motion\pan-in-left.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\motion\pan-in-left.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\motion\ripple.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\motion\ripple.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\motion\slide-fade-in.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\motion\slide-fade-in.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\motion\slide-in-right.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\motion\slide-in-right.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\motion\slide-up.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\motion\slide-up.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\overrides\ink.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\overrides\ink.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\src\scss\overrides\ionic.scss">
+      <PackagePath>www\lib\ionic-material\src\scss\overrides\ionic.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\ionic.scss">
+      <PackagePath>www\lib\ionic\scss\ionic.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\ionicons\ionicons.scss">
+      <PackagePath>www\lib\ionic\scss\ionicons\ionicons.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\ionicons\_ionicons-animation.scss">
+      <PackagePath>www\lib\ionic\scss\ionicons\_ionicons-animation.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\ionicons\_ionicons-font.scss">
+      <PackagePath>www\lib\ionic\scss\ionicons\_ionicons-font.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\ionicons\_ionicons-icons.scss">
+      <PackagePath>www\lib\ionic\scss\ionicons\_ionicons-icons.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\ionicons\_ionicons-variables.scss">
+      <PackagePath>www\lib\ionic\scss\ionicons\_ionicons-variables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_action-sheet.scss">
+      <PackagePath>www\lib\ionic\scss\_action-sheet.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_animations.scss">
+      <PackagePath>www\lib\ionic\scss\_animations.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_backdrop.scss">
+      <PackagePath>www\lib\ionic\scss\_backdrop.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_badge.scss">
+      <PackagePath>www\lib\ionic\scss\_badge.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_bar.scss">
+      <PackagePath>www\lib\ionic\scss\_bar.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_button-bar.scss">
+      <PackagePath>www\lib\ionic\scss\_button-bar.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_button.scss">
+      <PackagePath>www\lib\ionic\scss\_button.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_checkbox.scss">
+      <PackagePath>www\lib\ionic\scss\_checkbox.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_form.scss">
+      <PackagePath>www\lib\ionic\scss\_form.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_grid.scss">
+      <PackagePath>www\lib\ionic\scss\_grid.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_items.scss">
+      <PackagePath>www\lib\ionic\scss\_items.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_list.scss">
+      <PackagePath>www\lib\ionic\scss\_list.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_loaders.scss">
+      <PackagePath>www\lib\ionic\scss\_loaders.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_loading.scss">
+      <PackagePath>www\lib\ionic\scss\_loading.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_menu.scss">
+      <PackagePath>www\lib\ionic\scss\_menu.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_mixins.scss">
+      <PackagePath>www\lib\ionic\scss\_mixins.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_modal.scss">
+      <PackagePath>www\lib\ionic\scss\_modal.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_platform.scss">
+      <PackagePath>www\lib\ionic\scss\_platform.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_popover.scss">
+      <PackagePath>www\lib\ionic\scss\_popover.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_popup.scss">
+      <PackagePath>www\lib\ionic\scss\_popup.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_progress.scss">
+      <PackagePath>www\lib\ionic\scss\_progress.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_radio.scss">
+      <PackagePath>www\lib\ionic\scss\_radio.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_range.scss">
+      <PackagePath>www\lib\ionic\scss\_range.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_refresher.scss">
+      <PackagePath>www\lib\ionic\scss\_refresher.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_reset.scss">
+      <PackagePath>www\lib\ionic\scss\_reset.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_scaffolding.scss">
+      <PackagePath>www\lib\ionic\scss\_scaffolding.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_select.scss">
+      <PackagePath>www\lib\ionic\scss\_select.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_slide-box.scss">
+      <PackagePath>www\lib\ionic\scss\_slide-box.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_slides.scss">
+      <PackagePath>www\lib\ionic\scss\_slides.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_spinner.scss">
+      <PackagePath>www\lib\ionic\scss\_spinner.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_split-pane.scss">
+      <PackagePath>www\lib\ionic\scss\_split-pane.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_tabs.scss">
+      <PackagePath>www\lib\ionic\scss\_tabs.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_toggle.scss">
+      <PackagePath>www\lib\ionic\scss\_toggle.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_transitions.scss">
+      <PackagePath>www\lib\ionic\scss\_transitions.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_type.scss">
+      <PackagePath>www\lib\ionic\scss\_type.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_util.scss">
+      <PackagePath>www\lib\ionic\scss\_util.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\scss\_variables.scss">
+      <PackagePath>www\lib\ionic\scss\_variables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\src\scss\waves.scss">
+      <PackagePath>www\lib\waves\src\scss\waves.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\fonts\ionicons.eot">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\fonts\ionicons.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\fonts\ionicons.eot">
+      <PackagePath>www\lib\ionic\fonts\ionicons.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\fonts\ionicons.svg">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\fonts\ionicons.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\fonts\ionicons.svg">
+      <PackagePath>www\lib\ionic\fonts\ionicons.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\fonts\ionicons.ttf">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\fonts\ionicons.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\fonts\ionicons.ttf">
+      <PackagePath>www\lib\ionic\fonts\ionicons.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ion-md-input\demo\www\lib\ionic\fonts\ionicons.woff">
+      <PackagePath>www\lib\ion-md-input\demo\www\lib\ionic\fonts\ionicons.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic\fonts\ionicons.woff">
+      <PackagePath>www\lib\ionic\fonts\ionicons.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\.gitignore">
+      <PackagePath>www\lib\ionic-material\.gitignore</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\ionic-material\.jshintrc">
+      <PackagePath>www\lib\ionic-material\.jshintrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\src\less\waves.less">
+      <PackagePath>www\lib\waves\src\less\waves.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\src\sass\waves.sass">
+      <PackagePath>www\lib\waves\src\sass\waves.sass</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\www\lib\waves\src\stylus\waves.styl">
+      <PackagePath>www\lib\waves\src\stylus\waves.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\trainee3\Documents\Visual Studio 2015\Projects\ionic-js-tabs2\ionic-js-tabs2\platforms\windows\build\windows\debug\x86\win8.1\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

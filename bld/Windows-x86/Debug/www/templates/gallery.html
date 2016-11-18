@@ -1,0 +1,32 @@
+﻿<ion-view view-title="New Product">
+    <ion-content ng-class="{expanded:isExpanded}" class="animate-fade-slide-in">   
+        <div class="list animate-fade-slide-in-right" ng-controller="ProductsController">
+            <ion-slide-box on-slide-changed="slideHasChanged($index)">
+                <div class="row">
+                    <ion-slide ng-repeat="product in products">
+                        <div class="col col-50">
+                            <div class="list card red">
+                                <div class="">
+                                    <img src={{mySplitL(product.image)}}>
+                                    <h2>{{product.model}}</h2>
+
+                                    <h3>{{product.price}}</h3>
+
+                                    <div class="item tabs tabs-secondary tabs-icon-left">
+                                        <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5">
+                                            <i class="icon cart"></i> Buy
+                                        </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5">
+                                            <i class="icon ion-chatbox"></i> Comment
+                                        </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5">
+                                            <i class="icon ion-share"></i> Share
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </ion-slide>
+                </div>
+                </ion-slide-box>
+        </div>
+</ion-content>
+</ion-view>
